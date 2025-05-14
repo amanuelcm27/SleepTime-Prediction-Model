@@ -59,8 +59,8 @@ Once you've trained the models and saved them into the `models/` directory, you 
 1. **Clone the Repository** (if not done yet):
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/amanuelcm27/SleepTime-Prediction-Model.git
+cd SleepModel
 ```
 
 2. **Create a Virtual Environment (optional but recommended):**
